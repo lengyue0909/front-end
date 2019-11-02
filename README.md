@@ -4,5 +4,5 @@
 ## 版权声明：博主原创文章，未经博主允许不得转载。
 
 ### | 面试 系列
-1. [记一次大厂的面试过程](https://www.baidu.com)
+1. [记一次大厂的面试过程](https://github.com/Downsview/xwfe/issues/1)
 
