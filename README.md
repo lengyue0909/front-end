@@ -7,4 +7,4 @@
 - [博客园博客](https://www.cnblogs.com/tangshiwei/)
 ### | 面试 系列
 1. [记一次大厂的面试过程](https://github.com/Downsview/xwfe/issues/1)
-2. [我是这样写简历的](https://github.com/qq591468061/xwfe/issues/2)
+2. [装饰你的敲门砖，离大厂更进一步](https://github.com/qq591468061/xwfe/issues/2)
