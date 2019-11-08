@@ -5,6 +5,8 @@
 - [掘金博客](https://juejin.im/user/5db46169e51d452a3c6ca38c)
 - [segmentfault博客](https://segmentfault.com/u/xiaoweife/articles)
 - [博客园博客](https://www.cnblogs.com/tangshiwei/)
+### | React 系列
+1. [哪种方式更适合在React中获取数据？](https://github.com/qq591468061/xwfe/issues/3)
 ### | 面试 系列
 1. [记一次大厂的面试过程](https://github.com/Downsview/xwfe/issues/1)
 2. [装饰你的敲门砖，离大厂更进一步](https://github.com/qq591468061/xwfe/issues/2)
