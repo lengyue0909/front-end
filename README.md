@@ -7,6 +7,7 @@
 - [博客园博客](https://www.cnblogs.com/tangshiwei/)
 ### | React 系列
 1. [哪种方式更适合在React中获取数据？](https://github.com/qq591468061/xwfe/issues/3)
+2. [如何使用24行JavaScript代码实现Redux](https://github.com/qq591468061/xwfe/issues/5)
 ### | Canvas真好玩 系列
 1. [从黑客帝国开始](https://github.com/qq591468061/xwfe/issues/4)
 ### | 面试 系列
