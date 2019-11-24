@@ -13,3 +13,4 @@
 ### | 面试 系列
 1. [记一次大厂的面试过程](https://github.com/Downsview/xwfe/issues/1)
 2. [装饰你的敲门砖，离大厂更进一步](https://github.com/qq591468061/xwfe/issues/2)
+3. [中高级前端面试秘籍，助你直通大厂(一)](https://github.com/qq591468061/xwfe/issues/6)
