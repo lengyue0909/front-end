@@ -5,6 +5,8 @@
 - [掘金博客](https://juejin.im/user/5db46169e51d452a3c6ca38c)
 - [segmentfault博客](https://segmentfault.com/u/xiaoweife/articles)
 - [博客园博客](https://www.cnblogs.com/tangshiwei/)
+### | JavaScript 系列
+1. [推荐几个不错的console调试技巧](https://github.com/qq591468061/xwfe/issues/7)
 ### | React 系列
 1. [哪种方式更适合在React中获取数据？](https://github.com/qq591468061/xwfe/issues/3)
 2. [如何使用24行JavaScript代码实现Redux](https://github.com/qq591468061/xwfe/issues/5)
