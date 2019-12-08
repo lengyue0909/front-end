@@ -8,6 +8,7 @@
 ### | JavaScript 系列
 1. [推荐几个不错的console调试技巧](https://github.com/qq591468061/xwfe/issues/7)
 2. [JavaScript的内存模型](https://github.com/qq591468061/xwfe/issues/8)
+3. [一文搞懂V8引擎的垃圾回收](https://github.com/qq591468061/xwfe/issues/9)
 ### | React 系列
 1. [哪种方式更适合在React中获取数据？](https://github.com/qq591468061/xwfe/issues/3)
 2. [如何使用24行JavaScript代码实现Redux](https://github.com/qq591468061/xwfe/issues/5)
