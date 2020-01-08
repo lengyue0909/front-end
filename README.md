@@ -14,6 +14,7 @@
 1. [哪种方式更适合在React中获取数据？](https://github.com/qq591468061/xwfe/issues/3)
 2. [如何使用24行JavaScript代码实现Redux](https://github.com/qq591468061/xwfe/issues/5)
 3. [React16源码解读：开篇带你搞懂几个面试考点](https://github.com/qq591468061/xwfe/issues/11)
+3. [React16源码解读：揭秘ReactDOM.render](https://github.com/qq591468061/xwfe/issues/12)
 ### | Canvas真好玩 系列
 1. [从黑客帝国开始](https://github.com/qq591468061/xwfe/issues/4)
 ### | 面试 系列
